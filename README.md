@@ -8,7 +8,9 @@ It demonstrates strong skills in:
 - Data Modelling
 - Interactive visualization design
 - Using Power BI and Excek to extract meaningful insights
-  
+
+This dashboard provides a clear, data-driven view of Apple's sales trends and supports informed business decision-making.
+
 ![Image](https://github.com/user-attachments/assets/5eeffedc-5c8d-4f04-a630-9656a408279d)
 
 ![Image](https://github.com/user-attachments/assets/c77ed40d-b663-4a72-a72e-b4fab8efc7ee)
