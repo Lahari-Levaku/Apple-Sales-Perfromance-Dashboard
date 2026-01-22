@@ -1,5 +1,14 @@
 # Apple-Sales-Perfromance-Dashboard
-A PowerBI dashboard analyzing Apple's sales performance, including revenue, units sold, operating profit, regional trends, and product-level insights. Built using PowerBi, Excel and Data Modelling techniques.
+This project showcases an interactive Power BI dashboard designed to analyze Apple's sales performance.
+The dashboard highlights key business metrics such as total revenue, units sold, operating profit, operating costs, product-level performance, and regioanl sales insights.
+
+It demonstrates strong skills in:
+- Data cleaning and transformation
+- DAX measures
+- Data Modelling
+- Interactive visualization design
+- Using Power BI and Excek to extract meaningful insights
+  
 ![Image](https://github.com/user-attachments/assets/5eeffedc-5c8d-4f04-a630-9656a408279d)
 
 ![Image](https://github.com/user-attachments/assets/c77ed40d-b663-4a72-a72e-b4fab8efc7ee)
