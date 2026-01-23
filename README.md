@@ -1,4 +1,4 @@
-# Apple-Sales-Perfromance-Dashboard
+# Apple-Sales-Performance-Dashboard
 This project showcases an interactive Power BI dashboard designed to analyze Apple's sales performance.
 The dashboard highlights key business metrics such as total revenue, units sold, operating profit, operating costs, product-level performance, and regioanl sales insights.
 
